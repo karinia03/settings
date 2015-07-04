@@ -6,7 +6,7 @@ Settings
 講座で使用する環境のセッティング
 
 - git install & Settings
-    - [Settings](./settings/git_settings.md)
+    - [Settings](./git_settings.md)
     - [Git](http://git-scm.com/)
     - [Git Document](http://git-scm.com/documentation)
     - [Gitとは](http://ja.wikipedia.org/wiki/Git)
@@ -17,7 +17,7 @@ Settings
     - [GitHub入門](http://qiita.com/ongaeshi/items/4272209ad80380933000)
     - [GitHubPages](https://pages.github.com/)
 - SubLime Editor
-    - [Settings](./settings/sublime_settings.md)
+    - [Settings](./sublime_settings.md)
     - [Sublime Text Editor](http://www.sublimetext.com/3)
 
 
