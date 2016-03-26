@@ -1,30 +1,21 @@
-Settings
-==========
+Install & Settings & Configiration
+========
 
-## Git 
+Install
+-------
 
-###  git install & Settings
+- [Ubuntu](https://www.ubuntulinux.jp/)
+    - [install](./docs/ubuntu.md)
+- [Google Chrome](https://www.google.co.jp/chrome/browser/desktop/index.html)
+	- ubuntuソフトウェアセンター or `dpkg`
+- [Vagrant](https://www.vagrantup.com/)
+    - [install](./docs/vagrant.md)
+- [git & github](./docs/git.md)
+- [node.js](./docs/node.md)
+- [Sublime Text3](./docs/sublime.md)
 
-- [Settings](./git_settings.md)
-- [Git](http://git-scm.com/)
-- [Git Document](http://git-scm.com/documentation)
-- [Gitとは](http://ja.wikipedia.org/wiki/Git)
-- [サルでもわかるGit入門](http://www.backlog.jp/git-guide/)
 
-## Github
-###  GitHub & GitHubPages Settings
-
-- [GitHub](https://github.com)
-- [GitHubとは](http://ja.wikipedia.org/wiki/GitHub)
-- [GitHub入門](http://qiita.com/ongaeshi/items/4272209ad80380933000)
-- [GitHubPages](https://pages.github.com/)
-
-## Sublime 3
-###  SubLime Editor
-
-- [Settings](./sublime_settings.md)
-- [Sublime Text Editor](http://www.sublimetext.com/3)
-
-## vim
-### vimrc
-
+Config File
+-----------
+- [eslintrc](./conf/eslint)
+- [vimrc](./conf/vimrc)
