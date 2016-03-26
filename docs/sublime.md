@@ -35,7 +35,7 @@ $ sudo apt-get install emacs-mozc
 - open sublime
     - tool -> commandPalette (Or control + shift + p)
         - type Add Repository
-        - paste https://github.com/yasuyuky/SublimeMozcInput
+        - paste `https://github.com/yasuyuky/SublimeMozcInput`
     - type install
     - type SublimeMozcInput
 
@@ -59,7 +59,7 @@ Configiration
 
 ### 基本設定 - ユーザー
 
-[Preference.sublime-setting](./conf/Preference.sublime-setting)
+[Preference.sublime-setting](../conf/Preference.sublime-setting)
 
 ### 基本設定 - ユーザーキーバインディング
 
