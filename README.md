@@ -7,7 +7,7 @@ Install
 - [Ubuntu](https://www.ubuntulinux.jp/)
     - [install](./docs/ubuntu.md)
 - [Google Chrome](https://www.google.co.jp/chrome/browser/desktop/index.html)
-	- ubuntuソフトウェアセンター or `dpkg`
+    - ubuntuソフトウェアセンター or `dpkg`
 - [Vagrant](https://www.vagrantup.com/)
     - [install](./docs/vagrant.md)
 - [git & github](./docs/git.md)
@@ -17,5 +17,5 @@ Install
 
 Config File
 -----------
-- [eslintrc](./conf/eslint)
+- [eslintrc](./conf/eslintrc)
 - [vimrc](./conf/vimrc)
