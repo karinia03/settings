@@ -19,7 +19,7 @@ Install
 ### Install
 
 ```bash
-$ sudo apt-get install libsdl1.2debian
+$ sudo apt-get install libsdl1.2debian libqt4-opengl
 $ sudo dpkg -i ~/Downloads/virtualbox*deb
 $ sudo dpkg -i ~/Downloads/vagrant*deb
 ```

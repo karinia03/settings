@@ -18,6 +18,7 @@ settings & tips
 --------
 
 - [ubuntu tips](https://wiki.ubuntulinux.jp/UbuntuTips)
+-　[Desktop Linux のススメ](http://desktop-linux.namakemono345.com/clamtk-ubuntu-gnome-16-04/)
 
 ### 日本語ディレクトリ名の変更
 > [qiita](http://qiita.com/taiko19xx/items/d1a001bfc25245b91354)
@@ -26,7 +27,15 @@ settings & tips
 $ LANG=C xdg-user-dirs-gtk-update
 ```
 
-### Ubuntuで開いてるディレクトリからターミナルを呼出
+### アンチマルウェアソフト
+> [clamtk](http://desktop-linux.namakemono345.com/clamtk-ubuntu-gnome-16-04/)
+
+```
+$ sudo apt-get install clamtk
+```
+`
+
+### Ubuntuで開いてるディレクトリからターミナルを呼出(16からは標準になりました)
 > [qiita](http://qiita.com/niusounds/items/40b48f7aa2d0f2a7be56)
 
 ```
@@ -39,7 +48,7 @@ $ nautilus -q
 
 ```
 $ dconf reset /org/gnome/settings-daemon/plugins/keyboard/active
-$ dconf write /org/gnome/desktop/input-sources/xkb-options "['ctrl:nocaps']
+$ dconf write /org/gnome/desktop/input-sources/xkb-options "['ctrl:nocaps']"
 ``` 
 
 
