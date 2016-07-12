@@ -97,6 +97,7 @@ sublime上で `ctrl + shift + p` then `install`
 - SublimeLinter
 - SublimeLinter-json
 - SublimeLinter-contrib-eslint
+
 ### Plugins
 
 #### Programming
