@@ -28,6 +28,7 @@ Settings & Configiration
 ```bash
 $ sudo npm install eslint -g
 $ sudo npm install esprima -g
+$ sudo npm install -g eslint-plugin-node
 ```
 
 [eslintrc](./conf/eslintrc)
