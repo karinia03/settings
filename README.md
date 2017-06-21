@@ -17,5 +17,7 @@ Install
 
 Config File
 -----------
-- [eslintrc](./conf/eslintrc)
-- [vimrc](./conf/vimrc)
+- [vimrc](./conf/vim/vimrc)
+- [Preference.sublime-setting](.conf/sublime/Preference.sublime-setting)
+- [eslintrc](./conf/sublime/eslintrc)
+

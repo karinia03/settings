@@ -11,6 +11,7 @@
     "gray_antialias"
   ],
   "font_size"                         : 14,
+  "font_face"                         : "MyricaM",
   "highlight_line"                    : true,
   "hot_exit"                          : false,
   "indent_guide_options"              : ["draw_active"],
