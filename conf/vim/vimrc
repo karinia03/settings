@@ -211,6 +211,7 @@ endfunction
 function! s:main()
   call s:init()
   call s:basic()
+  call s:keymap()
 "  call s:folding_settings()
 endfunction
 
