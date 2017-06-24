@@ -16,8 +16,9 @@ $ sudo apt-get install git
 
 ```bash
 $ git config --global user.email "メールアドレス"
-$ git config --global user.name "ローマ字表記の名前"
+$ git config --global user.name  "ローマ字表記の名前"
 $ git config --global color.ui auto
+$ git config --global editor = "subl -w"
 ```
 
 GitHub & GitHubPage
@@ -25,7 +26,6 @@ GitHub & GitHubPage
 ### Official Web Site
 
 - [GitHub](https://github.com)
-
 
 ### Registration
 - [sign up](https://github.com/)

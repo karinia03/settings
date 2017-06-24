@@ -59,17 +59,12 @@ Configiration
 
 ### 基本設定 - ユーザー
 
-[Preference.sublime-setting](../conf/Preference.sublime-setting)
+[Preference.sublime-setting](../conf/sublime/Preference.sublime-setting)
 
 ### 基本設定 - ユーザーキーバインディング
 
 ```json
 [
-    { 
-        "keys": ["ctrl+shift+f"]
-        , "command": "reindent" 
-        , "args": { "single_line": false } 
-    },
     { 
         "keys": ["ctrl+space"]
         , "command": "toggle_mozc" 

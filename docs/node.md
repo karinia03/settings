@@ -27,12 +27,10 @@ Settings & Configiration
 
 ```bash
 $ sudo npm install eslint -g
-$ sudo npm install esprima -g
 $ sudo npm install -g eslint-plugin-node
 ```
 
-[eslintrc](./conf/eslintrc)
-
+[eslintrc.js](./conf/sublime/eslintrc.js)
 
 ### [jasmine](http://jasmine.github.io/)
 
